@@ -51,13 +51,16 @@ The project uses MySQL database with multiple relational tables for:
 ## 📸 Project Screenshots
 
 ### Home Page
-(Add screenshot here)
+<img width="1325" height="655" alt="Home" src="https://github.com/user-attachments/assets/600474bd-34dc-42ba-9b5a-209e9632ea03" />
 
-### Seat Selection
-(Add screenshot here)
 
-### Admin Dashboard
-(Add screenshot here)
+### Admin Selection
+<img width="1320" height="629" alt="Admin login page" src="https://github.com/user-attachments/assets/ad9481bd-6d39-453f-b8b1-8d5c90db20d4" />
+
+
+### User Dashboard
+<img width="1317" height="669" alt="User Panel" src="https://github.com/user-attachments/assets/b0bf867d-3c3d-4ab1-b847-db80010290da" />
+
 
 ---
 
